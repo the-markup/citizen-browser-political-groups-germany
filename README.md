@@ -1,5 +1,5 @@
 # Citizen Browser: Germany’s Far-Right Political Party, the AfD, Is Dominating Facebook This Election
-This repository contains data from the story ["Germany’s Far-Right Political Party, the AfD, Is Dominating Facebook This Election"](https://themarkup.org) from from our series, [Citizen Browser](https://themarkup.org/citizen-browser/). Citizen Browser construction and methodology is described in "[How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)."
+This repository contains data from the story ["Germany’s Far-Right Political Party, the AfD, Is Dominating Facebook This Election"](https://themarkup.org/citizen-browser/2021/09/22/germanys-far-right-political-party-the-afd-is-dominating-facebook-this-election) from from our series, [Citizen Browser](https://themarkup.org/citizen-browser/). Citizen Browser construction and methodology is described in "[How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)."
 
 ## Data
 The `data/` directory contains two csv files with data from the story.
